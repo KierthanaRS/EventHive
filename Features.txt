@@ -1,0 +1,21 @@
+Features:
+Event Creation:
+
+Users can create events with details like name, date, location, description, and an event image.
+Collaborative To-Do Lists:
+
+Add tasks (e.g., "Book a venue," "Order food") to the event and assign them to participants.
+Mark tasks as completed with a progress tracker for the event.
+Participant Management:
+
+Invite friends via email to join the event planning.
+Allow participants to RSVP and suggest changes or updates.
+Event Chatroom:
+
+A dedicated chat for each event where participants can discuss ideas, share links, or add comments.
+Calendar Integration (Optional):
+
+Sync events with Google Calendar for reminders.
+Authentication:
+
+Login/Signup using email or OAuth (Google, GitHub).
