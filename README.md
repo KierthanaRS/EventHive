@@ -1,9 +1,3 @@
-Got it 👍 Let’s polish and merge both your drafts into a clean, professional, and well-formatted **README.md**. I’ll also add the missing details and structure it so it looks neat and developer-friendly 🚀
-
-Here’s the improved version:
-
----
-
 # EventHive 🎉
 
 EventHive is the ultimate **collaborative event organizer** designed to help users create, manage, and enjoy events with **seamless participant management, real-time chats, task delegation, and calendar integration**.
@@ -36,6 +30,8 @@ Events display description, information (type, visibility, recurrence, reminders
 
 **User Profile & Activity Logs**
 ![User Profile](./Images/img5.png)
+
+
 ![Activity Logs](./Images/img6.png)
 View profile, event statistics (total, upcoming, completed events), and recent activity logs.
 
